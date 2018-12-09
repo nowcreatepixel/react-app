@@ -1,2 +1,3 @@
-# react-app
-A simple list react app
+React App
+
+A simple to-do list.
